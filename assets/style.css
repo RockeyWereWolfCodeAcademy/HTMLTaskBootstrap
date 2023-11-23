@@ -1,0 +1,42 @@
+.body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.carousel .carousel-indicators button {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: black;
+ }
+
+ .card-text {
+    font-weight: bold !important;
+ }
+
+ .card-title {
+    font-weight: bold !important;
+ }
+
+ .card-text-description {
+    font-weight: normal !important;
+ }
+
+ .card {
+    width: 18rem !important;
+    height: 16rem !important;
+ }
+
+ .card-img-top {
+    width: 15rem !important;
+    height: 13rem !important;
+ }
+
+ .card-body {
+    width: fit-content !important;
+    padding: 10px !important;
+ }
+
+ .card-img-left {
+    height: 10rem !important;
+    padding-right: 50px !important;
+ }
